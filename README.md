@@ -57,17 +57,7 @@ I love turning simple ideas into real, working projects
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavikpatel2910&theme=react&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Bhavikpatel2910&theme=react" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavikpatel2910&theme=react&layout=compact" />
-</p>
-
----
 
 ## 🏆 GitHub Trophies
 
