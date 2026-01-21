@@ -57,7 +57,18 @@ I love turning simple ideas into real, working projects
 
 ---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavikpatel2910&show_icons=true&theme=react" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhavikpatel2910&theme=react" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavikpatel2910&layout=compact&theme=react" height="165" />
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
 
