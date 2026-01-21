@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img 
+  <img
     src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Bhavik+Patel;Engineering+Student+%7C+Web+Developer;Open+Source+Enthusiast;Building+real+projects+every+day"
     alt="Typing SVG" />
 </h1>
@@ -57,15 +57,15 @@ I love turning simple ideas into real, working projects
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake (Blue Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavikpatel2910&show_icons=true&theme=react" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhavikpatel2910&theme=react" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavikpatel2910&layout=compact&theme=react" height="165" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Bhavikpatel2910/Bhavikpatel2910/output/github-contribution-grid-snake-dark.svg">
+    <img
+      src="https://raw.githubusercontent.com/Bhavikpatel2910/Bhavikpatel2910/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
@@ -83,18 +83,12 @@ I love turning simple ideas into real, working projects
 <p align="center">
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=12960671" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=12960671&image_size=auto&color_scheme=dark">
-    <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=12960671&image_size=auto&color_scheme=light">
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=12960671&image_size=auto&color_scheme=dark">
+    <img
+      src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=12960671&image_size=auto&color_scheme=light">
   </picture>
 </a>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavikpatel2910&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -102,7 +96,7 @@ I love turning simple ideas into real, working projects
 ## 🎖 Open Source Badges
 
 <p align="center">
-  <a href="https://holopin.io/@Bhavikpatel2910">
+  <a href="https://holopin.io/@bhavikpatel2910">
     <img src="https://holopin.me/bhavikpatel2910" />
   </a>
 </p>
