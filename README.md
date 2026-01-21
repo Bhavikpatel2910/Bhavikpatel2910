@@ -98,19 +98,6 @@ I love turning simple ideas into real, working projects
 
 ---
 
-## 🛠 Currently Working On
-
-<p align="center">
-  <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=12960671&activity_type=all" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=12960671&activity_type=all&image_size=auto&color_scheme=dark">
-      <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=12960671&activity_type=all&image_size=auto&color_scheme=light">
-    </picture>
-  </a>
-</p>
-
----
-
 ## 🎖 Open Source Badges
 
 <p align="center">
