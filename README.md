@@ -81,14 +81,16 @@ I love turning simple ideas into real, working projects
 ## 📈 OSS Insight Dashboard
 
 <p align="center">
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=12960671" target="_blank">
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=202440097" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=12960671&image_size=auto&color_scheme=dark">
-    <img
-      src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=12960671&image_size=auto&color_scheme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=202440097&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Bhavikpatel2910" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=202440097&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 </p>
 
 ---
