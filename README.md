@@ -100,6 +100,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Bhavikpatel2910&icon=2&color=1" alt="Visit Counter" />
-</p>
+
