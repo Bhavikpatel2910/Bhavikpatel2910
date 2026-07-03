@@ -10,6 +10,14 @@
 
 ---
 
+<!-- GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
+       alt="Coder GIF" 
+       style="border: 3px solid #333; border-radius: 20px; max-width: 100%; height: auto;" />
+</div>
+
+
 ## 💫 About Me
 
 - 🛠 **Currently Working On:** Building practical web applications and improving full-stack development skills
