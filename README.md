@@ -1,9 +1,8 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Bhavik+Patel;Engineering+Student+%7C+Web+Developer;Open+Source+Enthusiast;Building+Real-World+Solutions"
+    src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Bhavik+Patel;Data+Analyst;Turning+Data+into+Decisions;SQL+%7C+Python+%7C+Excel+%7C+Power+BI"
     alt="Typing SVG" />
 </h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bhavikpatel2910&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -18,49 +17,43 @@
 </div>
 
 
-## 💫 About Me
-
-- 🛠 **Currently Working On:** Building practical web applications and improving full-stack development skills
-- 🤝 **Looking to Collaborate:** Open-source projects, web development, and real-world problem-solving initiatives
-- 🙌 **Seeking Help With:** Writing scalable, clean, and maintainable code
-- 🌱 **Currently Learning:** JavaScript, React, Node.js, and advanced Git & GitHub workflows
-- 💬 **Ask Me About:** Web development, UI/UX ideas, and beginner-friendly coding concepts
-- ⚡ **Fun Fact:** I love transforming ideas into functional, real-world projects
-
+## 👋 About Me
+ 
+I'm an aspiring **Data Analyst** focused on turning raw data into clear, actionable insights. I work across the analytics stack — from data cleaning and querying to visualization and statistical analysis.
+ 
+- 🔭 **Currently Building:** Data analysis projects using SQL, Python (Pandas), and Excel
+- 📚 **Currently Learning:** Advanced SQL, Statistics, and Power BI
+- 🎯 **Focus Areas:** Data cleaning, exploratory data analysis, dashboards, and reporting
+- 🤝 **Open To:** Data analyst internships, freelance analytics projects, and collaboration on open-source data projects
+- 💬 **Ask Me About:** Excel, SQL, Pandas, or building analysis workflows from scratch
 ---
 
-## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ll_bhavik_patel_ll)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavikpatel-it)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhavikptl2910@gmail.com)
 
----
-
-## 💻 Tech Stack
-
-**Languages:**  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+## 🧰 Tech Stack
+ 
+**Data Analysis & Languages**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-**Backend & Database:**  
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+ 
+**Libraries & Tools**  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+ 
+**Databases & Platforms**  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Design:**  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+ 
+**Web Development (Supporting Skills)**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ 
 ---
 
 ## 🐍 Contribution Activity
@@ -111,3 +104,12 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Bhavikpatel2910&icon=2&color=1" alt="Visit Counter" />
 </p>
+## 🌐 Connect With Me
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavikpatel-it/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ptlbhavik)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ll_bhavik_patel_ll/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavikptl2910@gmail.com)
+ 
+---
+ 
