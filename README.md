@@ -70,10 +70,10 @@ I'm an aspiring **Data Analyst** focused on turning raw data into clear, actiona
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhavikpatel2910&theme=dark&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bhavikpatel2910&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
